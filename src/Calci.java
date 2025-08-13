@@ -1,5 +1,6 @@
 import java.util.Scanner;//Caliculater Program
 public class Calci{
+
     static void operator(int a,int b){
         int op;
         System.out.println("1 for addition\n2 for subtraction\n3 for multiplication\n4 for division\n5 for Maximum\n6 for Minimum\n Choose an operator:");
